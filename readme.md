@@ -7,7 +7,7 @@
 
 
 # Goal:
-Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+Wrangle WeRateDogs Twitter data to create interesting and trustworthy analysis and visualizations.
 
 
 # Introduction of Data Set :
